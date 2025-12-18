@@ -2,6 +2,8 @@
 
 **Curv*Surf* FindSurface™**
 
+[FindSurface Main Hub](https://github.com/CurvSurf/FindSurface)
+
 ## Overview
 
 This library is the implementation of the **FindSurface** library for **Linux (C/C++).**
